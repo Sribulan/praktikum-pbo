@@ -13,6 +13,7 @@ public class Laporan1 {
 	 * @param args
 	 */
 	static String Laporan="Laporn praktikum PBO";
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		String laporan="laporan1";
@@ -65,7 +66,12 @@ public class Laporan1 {
 					String matkul="PBO";
 					System.out.println("nama " + nama + " alamat "+ alamat +" matkul "  + matkul); 
 				}
-				
+	//test
+			public static void test()
+			{
+				System.out.println(Laporan);
+			
+			}		
 	
 }
 
